@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">project4</string>
+    <string name="text_header">Pesan Diterima</string>
+    <string name="text_header_reply">Balasan Diterima</string>
+    <string name="button_send">Kirim</string>
+    <string name="button_reply">Balas</string>
+    <string name="hint_message">Ketik pesan untuk Activity 2...</string>
+    <string name="hint_reply">Ketik balasan...</string>
+</resources>
